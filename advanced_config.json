@@ -1,0 +1,15 @@
+{
+  "check_interval": 2.0,
+  "response_delay": [
+    1.5,
+    3.5
+  ],
+  "screenshot_delay": 0.5,
+  "max_response_length": 250,
+  "auto_response_enabled": true,
+  "language_detection": true,
+  "learning_enabled": true,
+  "ocr_confidence_threshold": 0.6,
+  "response_probability": 0.8,
+  "max_responses_per_minute": 10
+}

@@ -1,7 +1,29 @@
 {
-  "tag_name": "v3.0.0",
-  "name": "🤖 Telegram AI Bot v3.0 - Advanced Learning System",
-  "body": "\n## 🚀 Major Release: Advanced AI Learning System\n\n### 🌟 New Features\n- 🧠 **Machine Learning Integration**: Advanced TensorFlow-powered learning system\n- 🎓 **Conversation Learning**: Bot learns from interactions and adapts responses\n- 🔍 **Multi-Engine OCR**: Tesseract + EasyOCR for superior text recognition\n- 📊 **Performance Analytics**: Real-time monitoring and detailed reporting\n- 🌍 **Enhanced Language Support**: Improved Persian/English processing\n\n### 🎯 Performance Improvements\n- **94% Overall Accuracy**: Based on comprehensive test suite\n- **0.17ms Analysis Time**: Lightning-fast message processing\n- **90% Message Detection**: Advanced filtering for real messages\n- **Smart Response Generation**: Context-aware, personality-driven replies\n\n### 🧠 Learning System Features\n- **Automatic Pattern Recognition**: Learns communication styles automatically\n- **Conversation History**: Persistent storage of all interactions\n- **Response Evolution**: Continuously improving response quality\n- **Style Adaptation**: Matches user communication preferences\n- **Data Analytics**: Comprehensive learning progress tracking\n\n### 🛠️ Technical Enhancements\n- **TensorFlow 2.20+**: Latest AI/ML capabilities\n- **Advanced OCR**: Multiple engine support with confidence scoring\n- **Smart Launcher**: Interactive menu system for easy management\n- **Configuration Management**: Advanced settings and optimization\n- **Error Handling**: Robust error recovery and logging\n\n### 📊 Test Results\n- Message Detection: 90% accuracy\n- Response Generation: 90% success rate\n- Language Support: Persian (100%) + English (83%)\n- Performance Score: 94% overall\n\n### 🚀 Quick Start\n```bash\n# Clone and run\ngit clone https://github.com/YourUsername/telegram-ai-bot.git\ncd telegram-ai-bot\npython start_ai_bot.py\n```\n\n### 🎯 Usage\n```bash\n# Smart launcher with learning system\nC:/Users/Arian/OneDrive/Desktop/telagent/.venv/Scripts/python.exe start_ai_bot.py\n```\n\n### 📋 Requirements\n- Windows 10/11\n- Python 3.8+\n- 4GB+ RAM\n- Telegram Desktop\n\n### 🔧 New Files\n- `learning_system.py`: ML learning engine\n- `learning_viewer.py`: Data management tool\n- `start_ai_bot.py`: Smart launcher\n- `telegram_ai_bot.py`: Main AI bot (v3.0)\n\n### 🐛 Bug Fixes\n- Fixed coordinate setup issues\n- Improved Persian text handling\n- Enhanced error recovery\n- Optimized memory usage\n\n### 📚 Documentation\n- Complete README with setup guides\n- Performance benchmarking results\n- Learning system documentation\n- Troubleshooting guides\n\n---\n\n**🎉 This release represents a major milestone with production-ready AI learning capabilities!**\n",
-  "draft": false,
-  "prerelease": false
+  "version": "v4.0.0",
+  "release_date": "2025-08-05T20:33:12.908797",
+  "description": "🤖 Advanced AI Telegram Auto Responder with OCR, Learning System & Desktop Automation",
+  "features": [
+    "🖥️ Desktop Automation with PyAutoGUI",
+    "👁️ Advanced OCR with Tesseract",
+    "🧠 AI Learning System with Pattern Recognition",
+    "💬 Intelligent Response Generation",
+    "📊 Conversation Analytics",
+    "🔄 Real-time Chat Monitoring",
+    "⚡ High Performance Caching",
+    "🌐 Multi-language Support (Persian/English)",
+    "📱 Telegram Portable Integration",
+    "🎯 Smart Screenshot Processing"
+  ],
+  "tech_stack": [
+    "Python 3.12+",
+    "PyAutoGUI",
+    "Tesseract OCR",
+    "Scikit-learn",
+    "OpenCV",
+    "SQLite",
+    "NumPy/Pandas"
+  ],
+  "requirements": "requirements_advanced.txt",
+  "main_file": "advanced_telegram_responder.py",
+  "license": "MIT"
 }
