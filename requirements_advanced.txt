@@ -1,0 +1,32 @@
+# 🚀 Advanced Telegram Auto Responder Requirements
+# Ultimate AI-powered system with learning capabilities
+
+# Core automation and GUI
+pyautogui>=0.9.54
+keyboard>=0.13.5
+pywin32>=306
+
+# Computer vision and OCR
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# Optional heavy ML dependencies (comment out if causing issues)
+# tensorflow>=2.13.0
+# scikit-learn>=1.3.0
+# torch>=2.0.0
+# easyocr>=1.7.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+requests>=2.31.0
+colorama>=0.4.6
+tqdm>=4.65.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
