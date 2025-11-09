@@ -1,5 +1,7 @@
 # 🚀 Advanced Telegram Auto Responder v4.0
 
+## About This Project This project was created as part of my personal AI experiments. It combines my own ideas with code and content generated using tools like ChatGPT. The main purpose is to explore and test how AI can assist in development and creativity. *Note: This is an AI-assisted project made for learning and experimentation.*
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
